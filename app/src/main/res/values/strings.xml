@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Danisi</string>
+    <string name="title_tari1">Tari Gambyong</string>
+    <string name="desc_tari1sort">Tari Gambyong adalah tarian daerah yang berasal dari kota Solo yang sudah dikenal </string>
+    <string name="desc_tari1">Tari Gambyong adalah tarian daerah yang berasal dari kota Solo yang sudah dikenal sejak zaman raja-raja Jawa Kuno. Sampai Saat ini tari Gambyong terus mengalami perkembangan koreografi. Sebelumnya tarian ini berakar dari tari tayub atau tarian rakyat saat pesta panen, kemudian pihak keraton membawanya dan mengembangkan menjadi tarian yang luwes dan indah.\n Kostum penari tari gambyong menggunakan kebaya dengan bawahan jarik yang anggun dan mahkota layaknya putri kerajaan. Makna tari gambyong adalah simbol seorang Dewi Sri (dewi padi) yang sedang menari. Itulah sebabnya tari ini digunakan masyarakat jawa untuk ritual pertanian untuk meminta musim kesuburan dan hasil panen yang melimpah.</string>
+    <string name="asal_tari1">Asal Solo - Jawa Tengah</string>
+
+    <string name="title_tari2">Tari Serimpi</string>
+    <string name="desc_tari2sort">Tari Serimpi adalah tarian daerah yang berasal dari Yogyakarta yang juga hanya dipentaskan di keraton saja. </string>
+    <string name="desc_tari2">Tari Serimpi adalah tarian daerah yang berasal dari Yogyakarta yang juga hanya dipentaskan di keraton saja. Tarian ini juga memiliki beberapa jenis, seperti genjung, babul, layar, bondan, anglir mendung, dan dhempel. Penarinya yang berjumlah 2 sampai 4 orang ini menari dengan iringan gamelan jawa. Kostum yang digunakan penari adalah kebaya dan bawahan jarik yang anggun layaknya putri. Tari Serimpi ini melambngkan api, air, angin dan tanah sebagai kekuatan alam. \n Apabila kalian ingin mempelajari budaya Nusantara lainnya, seri pertama e-book wisata tradisi ini menghadirkan lima atraksi budaya Nusantara yang perlu kalian ketahui, di antaranya pacu jawi di Sumatera Barat, Festival Tabuik di Pariaman, Sumatera Barat; Festival Palang Pintu di Jakarta, Ngarot di Indramayu Jawa Barat; dan Karapan Sapi di Madura, Jawa Timur. Tidak hanya seni budaya tari saja yang bisa kalian ketahui dan pelajari, melainkan budaya Nusantara lainnya juga perlu. Dengan begitu, wawasan kalian akan budaya Nusantara jadi semakin luas.</string>
+    <string name="asal_tari2">Asal Yogyakarta</string>
+
+    <string name="title_tari3">Tari Bedhaya</string>
+    <string name="desc_tari3sort">Tari Bedhaya adalah tarian daerah yang berasal dari keraton Yogyakarta yang biasa ditampilkan oleh perempuan. </string>
+    <string name="desc_tari3">Tari Bedhaya adalah tarian daerah yang berasal dari keraton Yogyakarta yang biasa ditampilkan oleh perempuan. Dahulu tarian ini hanya diperuntukan bagi kalangan keraton saja. Tarian ini berkonsep gerakan-gerakan anggun yang bertempo lambat dan gemulai diiringi perangkat gamelan jawa.
+
+Kostum penari menggunakan kebaya jawa dengan kain jarik khas Yogyakarta dengan siger di kepala sebagai mahkota. Tarian ini memiliki makna yang bercerita tentang sosok spiritual Nyi Roro Kidul yang dipercayai sebagai penguasa dunia kebatinan di pantai utara Jawa.</string>
+    <string name="asal_tari3">Asal Yogyakarta</string>
+
+    <string name="title_tari4">Tari Topeng </string>
+    <string name="desc_tari4sort">Tari Gambyong adalah tarian daerah yang berasal dari kota Solo yang sudah dikenal sejak zaman raja-raja Jawa Kuno.</string>
+    <string name="desc_tari4">
+    Tari Gambyong adalah tarian daerah yang berasal dari kota Solo yang sudah dikenal sejak zaman raja-raja Jawa Kuno. Sampai Saat ini tari Gambyong terus mengalami perkembangan koreografi. Sebelumnya tarian ini berakar dari tari tayub atau tarian rakyat saat pesta panen, kemudian pihak keraton membawanya dan mengembangkan menjadi tarian yang luwes dan indah.\n Kostum penari tari gambyong menggunakan kebaya dengan bawahan jarik yang anggun dan mahkota layaknya putri kerajaan. Makna tari gambyong adalah simbol seorang Dewi Sri (dewi padi) yang sedang menari. Itulah sebabnya tari ini digunakan masyarakat jawa untuk ritual pertanian untuk meminta musim kesuburan dan hasil panen yang melimpah.</string>
+    <string name="asal_tari4">Asal Cirebon - Jawa Tengah</string>
+
+    <string name="title_tari5">Tari Jaipong</string>
+    <string name="desc_tari5sort">Tari Jaipong adalah tarian daerah yang berasal dari Karawang dengan konsep gerakan yang relatif lebih modern.</string>
+    <string name="desc_tari5">
+    Tari Jaipong adalah tarian daerah yang berasal dari Karawang dengan konsep gerakan yang relatif lebih modern. Tarian ini menggabungkan unsur silat, wayang golek, dan ketuk tilu ciptaan H. Suanda dan Gugum Gumbira, seorang seniman asal Jawa Barat. Musik tradisional yang biasa mengiringi tarian ini adalah gong, kecapi, gendang, dan rebab.
+Penari biasanya menggunakan kostum kebaya panjang yang anggun dengan selendang panjang di lehernya. Tari jaipong tidak hanya hiburan tarian biasa, namun juga bermakna sebagai sarana komunikasi antar manusia dengan merepresentasikan keramahan, kesantunan, kelincahan, dan pantang menyerah.</string>
+    <string name="asal_tari5">Asal Karawang - Jawa Barat</string>
+
+
+
+
+
+
+    <string name="aboutshort">
+        Melalui aplikasi ini kamu bisa belajar dan mengenal kekayaan seni dan budaya terkhusus tarian yang ada di Indonesia.
+    </string>
+    <string name="longteks">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet venenatis urna cursus eget nunc. Arcu vitae elementum curabitur vitae nunc sed. Sit amet cursus sit amet dictum sit amet justo donec. Duis tristique sollicitudin nibh sit amet commodo. Erat velit scelerisque in dictum non consectetur a. Vel fringilla est ullamcorper eget. Nec ultrices dui sapien eget mi proin sed libero. Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Ultricies leo integer malesuada nunc vel risus commodo. Ultrices mi tempus imperdiet nulla malesuada. Id cursus metus aliquam eleifend mi in nulla posuere. Tortor consequat id porta nibh venenatis cras sed felis eget. Lectus arcu bibendum at varius. Purus sit amet volutpat consequat mauris nunc congue. Mattis aliquam faucibus purus in. Eu facilisis sed odio morbi. Hendrerit gravida rutrum quisque non. Consequat interdum varius sit amet mattis vulputate.
+
+Nisl vel pretium lectus quam id leo. Diam quis enim lobortis scelerisque fermentum dui. In vitae turpis massa sed. Dolor purus non enim praesent. Quisque id diam vel quam elementum pulvinar etiam non. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Ac ut consequat semper viverra nam libero. Suscipit tellus mauris a diam maecenas sed enim ut sem. Placerat in egestas erat imperdiet sed. Amet volutpat consequat mauris nunc. Integer quis auctor elit sed vulputate mi sit. Viverra suspendisse potenti nullam ac. Tellus pellentesque eu tincidunt tortor aliquam nulla. Fermentum leo vel orci porta. Dictum varius duis at consectetur. Faucibus interdum posuere lorem ipsum dolor sit. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Lacus sed viverra tellus in hac habitasse platea. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu.
+
+Leo a diam sollicitudin tempor id. Cras ornare arcu dui vivamus arcu felis bibendum ut tristique. Nascetur ridiculus mus mauris vitae ultricies leo. Rhoncus dolor purus non enim praesent elementum facilisis leo vel. In est ante in nibh mauris cursus mattis molestie. Lectus mauris ultrices eros in cursus. Velit dignissim sodales ut eu sem integer vitae justo eget. Donec ultrices tincidunt arcu non sodales. Vitae congue eu consequat ac felis donec et. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Integer eget aliquet nibh praesent tristique magna sit. Sed arcu non odio euismod lacinia at quis risus. Mollis nunc sed id semper.
+
+Vel quam elementum pulvinar etiam non. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Nunc congue nisi vitae suscipit. Arcu cursus vitae congue mauris rhoncus aenean. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Tortor at risus viverra adipiscing at. Ipsum consequat nisl vel pretium. Pulvinar pellentesque habitant morbi tristique senectus. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Odio aenean sed adipiscing diam donec adipiscing tristique.
+
+Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Ac tortor dignissim convallis aenean et tortor at risus viverra. Tortor pretium viverra suspendisse potenti nullam ac tortor. Aliquam ultrices sagittis orci a. Habitant morbi tristique senectus et. Ultricies leo integer malesuada nunc vel risus. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet. Vel orci porta non pulvinar neque. Velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Auctor neque vitae tempus quam pellentesque. Nulla posuere sollicitudin aliquam ultrices. Lorem ipsum dolor sit amet consectetur. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. Fames ac turpis egestas integer eget aliquet nibh praesent. Et netus et malesuada fames ac.</string>
+    <string name="aboutapps">"Peran budaya adalah bentuk yang melaluinya kita sebagai masyarakat merefleksikan siapa kita, di mana kita pernah berada, di mana kita berharap." - Wendell Pierce"</string>
+    <string name="aboutdanisi">Danisi merupakan terjemanahan bahasa amharic(amhar)- bahasa nasional Etiopia  yang bearti tarian, tujuan pembuatan aplikasi adalah mengenalkan berbagai macam tarian yang ada di Indonesia, yang menjadi kekayaan kita sebagai bangsa dan bernegara untuk melestarikan budaya tersebut.</string>
+    <string name="creatorname">Indra Irawan Wahyudi</string>
+    <string name="creatorstudi"> Teknik Informatika - Stekom Sruwen</string>
+    <string name="creatorabout">Ketertarikan saya terhadap multimedia dan design ,
+        saya merasa untuk pindah menjadi seorang ui/ux designer bakal gampang.
+        Ternyata dilapangan banyak sekali yang harus dipelajari untuk masuk
+        ke bidang UI/UX Designer tersebut. Selain harus bisa mengoperasikan
+        tools design saya juga harus mengerti bagaimana alur dari aplikasi,
+        skema aplikasi agar bisa berjalan sesuai dengan backend-programer
+</string>
+</resources>
